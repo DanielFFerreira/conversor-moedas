@@ -42,4 +42,12 @@
     max-width: 300px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
+  .conversor input {
+    padding: 10px;
+  }
+  .conversor input + input {
+    background-color: #51b983;
+    border: 0;
+    padding: 10px;
+  }
 </style>
